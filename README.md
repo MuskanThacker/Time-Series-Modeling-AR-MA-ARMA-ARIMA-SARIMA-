@@ -1,9 +1,6 @@
 # Time-Series-Modeling-AR-MA-ARMA-ARIMA-SARIMA-
 This project demonstrates a complete time series analysis workflow using Python, covering model identification, estimation, diagnostics, and forecasting. The analysis is performed on occupancy data and compares multiple models including AR, MA, ARMA, ARIMA, and SARIMA to identify the best forecasting approach.
 
-
-#  Time Series Forecasting with ARIMA & SARIMA
-
 ## Project Description
 This project performs time series analysis and forecasting on occupancy data using statistical models such as AR, MA, ARMA, ARIMA, and SARIMA. The objective is to identify the best model based on diagnostics and forecasting performance.
 
